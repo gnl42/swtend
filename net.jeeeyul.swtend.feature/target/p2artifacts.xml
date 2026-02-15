@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='org.eclipse.update.feature' id='net.jeeeyul.swtend.feature' version='2.2.10.202602150934'>
+  <artifact classifier='org.eclipse.update.feature' id='net.jeeeyul.swtend.feature' version='2.2.10.202602150950'>
     <properties size='9'>
       <property name='artifact.size' value='4886'/>
       <property name='download.size' value='4886'/>
-      <property name='download.checksum.sha-512' value='c03f4c35f6ec681b83857cd16fd798504349b24222777590f02c02cbab16f83815efab09b4d0d2e25fd5ed9e4ca03cd79bb78800b450bc4a785e928794e5d99e'/>
-      <property name='download.checksum.sha-256' value='6b5a536cf8b45eab08d62ddc228f865a65505b1c2ea1eb4e3b83032e1a2bac89'/>
+      <property name='download.checksum.sha-512' value='8ac8d923ce216536d50e6f206f125ea5fc031f550ce8f1a2fe7f59c8d57b31f764a0246eefccc07e0cb2be36a37d13332bab720e24041584241f71b3313c3c8a'/>
+      <property name='download.checksum.sha-256' value='ddba0df37dc362b96fddfc96a494c2d7d61e7d26aa1e23246c8bd28f068b496f'/>
       <property name='maven-groupId' value='net.jeeeyul'/>
       <property name='maven-artifactId' value='net.jeeeyul.swtend.feature'/>
       <property name='maven-version' value='2.2.10-SNAPSHOT'/>

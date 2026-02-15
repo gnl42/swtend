@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='net.jeeeyul.swtend' version='2.2.10.202602150934'>
+  <artifact classifier='osgi.bundle' id='net.jeeeyul.swtend' version='2.2.10.202602150950'>
     <properties size='8'>
       <property name='artifact.size' value='168974'/>
       <property name='download.size' value='168974'/>
-      <property name='download.checksum.sha-512' value='f109db170f633ad97020ac844f396909a71672e4c032ed82bc3d3e9043e1e04df042b523fa9d325e1828819f533477e9b1d91b78452b742063ccca53e4806628'/>
-      <property name='download.checksum.sha-256' value='f347fab7abd2c138c5300c22de4119ea0ffd4b304a6108f763e9bdb6d9ebac98'/>
+      <property name='download.checksum.sha-512' value='4a3237272ec8829b09421898f3e5dd1ba9ce6ac37fe8671ea2cff5146e93c7a4d5e5083c910a1ff3c88bc1ff646a0cd1286936b99a7f71e24b4710958dd439b7'/>
+      <property name='download.checksum.sha-256' value='f96fa80d2f940f2fd27e482129c2c536a7eb582ff27ba52ee198fca9ed5c3eec'/>
       <property name='maven-groupId' value='net.jeeeyul'/>
       <property name='maven-artifactId' value='net.jeeeyul.swtend'/>
       <property name='maven-version' value='2.2.10-SNAPSHOT'/>

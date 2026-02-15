@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<feature id="net.jeeeyul.swtend.feature" label="SWTend" provider-name="jeeeyul@gmail.com" version="2.2.10.202602150934">
+<feature id="net.jeeeyul.swtend.feature" label="SWTend" provider-name="jeeeyul@gmail.com" version="2.2.10.202602150950">
                                                                
     
     
@@ -250,7 +250,7 @@ This Agreement is governed by the laws of the State of New York and the intellec
     
     
     
-    <plugin id="net.jeeeyul.swtend" version="2.2.10.202602150934"/>
+    <plugin id="net.jeeeyul.swtend" version="2.2.10.202602150950"/>
                                                             
 
 
