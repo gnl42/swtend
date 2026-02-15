@@ -8,6 +8,6 @@ Bundle-Version: 2.2.10.qualifier
 Bundle-ClassPath: .
 Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
 Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Bundle-Vendor: jeeeyul@gmail.com
 

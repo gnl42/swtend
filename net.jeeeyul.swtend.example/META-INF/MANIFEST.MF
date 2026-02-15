@@ -2,9 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Example
 Bundle-SymbolicName: net.jeeeyul.swtend.example
-Bundle-Version: 2.2.3.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Require-Bundle: net.jeeeyul.swtend;bundle-version="2.2.2",
+Bundle-Version: 2.2.10.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Require-Bundle: net.jeeeyul.swtend;bundle-version="2.2.10",
  org.eclipse.xtend.lib,
- org.eclipse.ui
+ org.eclipse.ui,
+ org.eclipse.xtext.xbase.lib;bundle-version="[2.41.0,3.0.0)"
 Automatic-Module-Name: net.jeeeyul.swtend.example
