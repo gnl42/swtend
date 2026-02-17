@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: net.jeeeyul.swtend
+Bundle-SymbolicName: net.jeeeyul.swtend
+Export-Package: net.jeeeyul.swtend,net.jeeeyul.swtend.geometry,net.jeeey
+ ul.swtend.sam,net.jeeeyul.swtend.ui
+Bundle-Name: SWTend
+Bundle-Version: 2.3.0.202602170931
+Bundle-ClassPath: .
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
+Bundle-ManifestVersion: 2
+Bundle-Vendor: jeeeyul@gmail.com
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=21))"
+
