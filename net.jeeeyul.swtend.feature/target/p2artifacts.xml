@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='net.jeeeyul.swtend.feature' version='2.3.0.202602170931'>
+    <properties size='9'>
+      <property name='artifact.size' value='5116'/>
+      <property name='download.size' value='5116'/>
+      <property name='download.checksum.sha-512' value='9173a952c39608d43e347d879f690b1b7232889073e03e3568d71dbe0ecf374f74fcb011c622b67cb6bf0e04d9673ae037e9760230113f9b02a21633b8cb3fab'/>
+      <property name='download.checksum.sha-256' value='5b85c6b64f1ecd99d512da9c59434fe8ce8ecf1e73d9ffa546928c505943be95'/>
+      <property name='maven-groupId' value='net.jeeeyul'/>
+      <property name='maven-artifactId' value='net.jeeeyul.swtend.feature'/>
+      <property name='maven-version' value='2.3.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

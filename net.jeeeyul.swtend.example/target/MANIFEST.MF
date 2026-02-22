@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Example
+Bundle-SymbolicName: net.jeeeyul.swtend.example
+Bundle-Version: 2.3.0.202602170931
+Require-Bundle: org.eclipse.xtend.lib,org.eclipse.ui,net.jeeeyul.swtend
+Automatic-Module-Name: net.jeeeyul.swtend.example
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=21))"
+

@@ -3,11 +3,15 @@ Automatic-Module-Name: net.jeeeyul.swtend
 Bundle-SymbolicName: net.jeeeyul.swtend
 Export-Package: net.jeeeyul.swtend,net.jeeeyul.swtend.geometry,net.jeeey
  ul.swtend.sam,net.jeeeyul.swtend.ui
+Import-Package: net.jeeeyul.swtend,
+ net.jeeeyul.swtend.geometry,
+ net.jeeeyul.swtend.sam,
+ net.jeeeyul.swtend.ui
 Bundle-Name: SWTend
-Bundle-Version: 2.2.10.qualifier
+Bundle-Version: 2.3.0.qualifier
 Bundle-ClassPath: .
 Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
 Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Bundle-Vendor: jeeeyul@gmail.com
 

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='net.jeeeyul.swtend' version='2.3.0.202602170931'>
+    <properties size='8'>
+      <property name='artifact.size' value='167429'/>
+      <property name='download.size' value='167429'/>
+      <property name='download.checksum.sha-512' value='6e8ff17145e219e80da7fbe9930c5b844709f5a67423091ad90cd60ad365e051a3567e7dd64fd7a5cda3846171c8246d4a6551e14fbe141a522b7ef93e029ab8'/>
+      <property name='download.checksum.sha-256' value='2d51b9c13977b1d9489673a3f85d408bbf84c61f355e8636fd145abbb401a7e5'/>
+      <property name='maven-groupId' value='net.jeeeyul'/>
+      <property name='maven-artifactId' value='net.jeeeyul.swtend'/>
+      <property name='maven-version' value='2.3.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+</artifacts>
