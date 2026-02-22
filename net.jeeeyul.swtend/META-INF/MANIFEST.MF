@@ -3,6 +3,10 @@ Automatic-Module-Name: net.jeeeyul.swtend
 Bundle-SymbolicName: net.jeeeyul.swtend
 Export-Package: net.jeeeyul.swtend,net.jeeeyul.swtend.geometry,net.jeeey
  ul.swtend.sam,net.jeeeyul.swtend.ui
+Import-Package: net.jeeeyul.swtend,
+ net.jeeeyul.swtend.geometry,
+ net.jeeeyul.swtend.sam,
+ net.jeeeyul.swtend.ui
 Bundle-Name: SWTend
 Bundle-Version: 2.3.0.qualifier
 Bundle-ClassPath: .
